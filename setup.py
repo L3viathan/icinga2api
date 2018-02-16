@@ -20,7 +20,7 @@ setup(
     url=URL,
     packages=[PACKAGE],
     zip_safe=False,
-    long_description=open("README.md").read(),
+    long_description=open("README.txt").read(),
     classifiers = [
         "Programming Language :: Python",
         "Programming Language :: Python :: 3",
