@@ -189,6 +189,7 @@ Schedule a downtime for services or hosts.
   duration         | int        | **Required.** Duration of the downtime in seconds.
   fixed            | bool       | **Optional.** Schedule fixed or flexible downtime.
   trigger\_name    | bool       | **Optional.** Schedule fixed or flexible downtime.
+  all\_services    | bool       | **Optional.** Schedule for all services.
 
 Example:
 
